@@ -4,6 +4,8 @@ A peer-reviewed-sourced technical assessment of whether FDM/FFF 3D-printed food-
 
 ---
 
+📄 [Read the full PDF assessment](https://github.com/trusteeoil/FoodSafetyFDM3DPrinting/blob/main/Food%20Safety%20of%20FDM%203D-Printed%20Parts_%20A%20Risk-Relative%20Assessment.pdf)
+
 ## TL;DR
 
 The "inherently unsafe" narrative is not supported by measured data:
